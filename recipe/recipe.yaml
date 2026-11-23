@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.9.1"
+  version: "2.0.0"
 
 package:
   name: simplemma
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/adbar/simplemma/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 0bc08f33c2fbe9e5396bc77e83242ed2f5aba43c16e8a07095cf9fc8f36a6ab3
+  sha256: e16afc487549c0d80780691f8c7cfaf876bbbb071186c4a63eb7633d5d6677f8
 
 build:
   number: 0
